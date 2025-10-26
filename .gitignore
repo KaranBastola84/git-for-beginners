@@ -1,2 +1,3 @@
 *.agdai
 MAlonzo/**
+// Add the files you want to ignore like enviornment .env files or others.
